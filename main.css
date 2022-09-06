@@ -1,0 +1,67 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font: inherit;
+    font-size: 100%;
+}
+html {
+    font-family: 'Bebas Neue', cursive;
+    url(https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap)
+}
+body {
+
+}
+h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+h2 {
+
+}
+h3 {
+
+}
+ul {
+
+}
+ol {
+
+}
+li {
+
+}
+p {
+
+}
+a {
+
+
+}
+.line {
+    padding-bottom: 7px;
+    font-size: 16px;
+}
+input[type=submit] {
+    width: 250px
+}
+form {
+    margin: 250px 575px;
+    text-align: center;
+    padding: 20px 10px 25px 10px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+#Email {
+    margin-bottom: 15px;
+    width: 140px;
+    height: 25px;
+}
+#FirstName {
+    width: 140px;
+    height: 25px;
+}
+#LastName {
+    width: 140px;
+    height: 25px;
+}
